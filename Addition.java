@@ -5,6 +5,9 @@ class Addition
 		int b=20;
 		System.out.println((a*b));
 		System.ou.println("Hello");
+		System.out.println((a*b));
+		System.ou.println("Hello");
+
 
 	}
 }
